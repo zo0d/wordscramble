@@ -14,6 +14,7 @@
 		20F2862A2280604E001EADCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20F286282280604E001EADCF /* LaunchScreen.storyboard */; };
 		20F286352280604E001EADCF /* wordscrambleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F286342280604E001EADCF /* wordscrambleTests.swift */; };
 		20F286402280604E001EADCF /* wordscrambleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F2863F2280604E001EADCF /* wordscrambleUITests.swift */; };
+		20F2864E2280631C001EADCF /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 20F2864D2280631C001EADCF /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		20F2863B2280604E001EADCF /* wordscrambleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = wordscrambleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20F2863F2280604E001EADCF /* wordscrambleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordscrambleUITests.swift; sourceTree = "<group>"; };
 		20F286412280604E001EADCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20F2864D2280631C001EADCF /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				20F286262280604E001EADCF /* Assets.xcassets */,
 				20F286282280604E001EADCF /* LaunchScreen.storyboard */,
 				20F2862B2280604E001EADCF /* Info.plist */,
+				20F2864D2280631C001EADCF /* start.txt */,
 			);
 			path = wordscramble;
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20F2862A2280604E001EADCF /* LaunchScreen.storyboard in Resources */,
+				20F2864E2280631C001EADCF /* start.txt in Resources */,
 				20F286272280604E001EADCF /* Assets.xcassets in Resources */,
 				20F286252280604D001EADCF /* Main.storyboard in Resources */,
 			);
